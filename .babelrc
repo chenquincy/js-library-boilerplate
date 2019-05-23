@@ -1,0 +1,13 @@
+{
+  "presets": [
+    [ "@babel/preset-env", { "modules": "cjs" } ]
+  ],
+  "plugins": [
+    "add-module-exports",
+    ["@babel/plugin-transform-runtime",
+      {
+        "regenerator": true
+      }
+    ]
+  ]
+}
