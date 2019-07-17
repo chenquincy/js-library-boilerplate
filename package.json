@@ -1,6 +1,6 @@
 {
   "name": "your-library-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a js library boilerplate for npm module with ES6/ES7. Compatibility with CommonJS and UMD",
   "main": "lib/index.js",
   "repository": "https://github.com/chenquincy/library-boilerplate",
